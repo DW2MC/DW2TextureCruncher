@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DW2TextureCruncher", "DW2TextureCruncher\DW2TextureCruncher.csproj", "{F4019BFD-C0DF-4A7A-9754-35C7834F822E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressedTextureLoader", "CompressedTextureLoader\CompressedTextureLoader.csproj", "{257EEC96-8051-45F6-9642-86EAF1C7D53E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4019BFD-C0DF-4A7A-9754-35C7834F822E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4019BFD-C0DF-4A7A-9754-35C7834F822E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4019BFD-C0DF-4A7A-9754-35C7834F822E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4019BFD-C0DF-4A7A-9754-35C7834F822E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257EEC96-8051-45F6-9642-86EAF1C7D53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257EEC96-8051-45F6-9642-86EAF1C7D53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257EEC96-8051-45F6-9642-86EAF1C7D53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257EEC96-8051-45F6-9642-86EAF1C7D53E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B323C71A-E7CE-4596-AA3E-1E8EA6799652}
+	EndGlobalSection
+EndGlobal

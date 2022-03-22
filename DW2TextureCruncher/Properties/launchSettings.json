@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "DW2TextureCruncher": {
+      "commandName": "Project",
+      "workingDirectory": "F:\\Steam\\steamapps\\common\\Distant Worlds 2"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "F:\\Steam\\steamapps\\common\\Distant Worlds 2\\mods\\Crunched\\DW2TextureCruncher.exe",
+      "workingDirectory": "F:\\Steam\\steamapps\\common\\Distant Worlds 2\\mods\\Crunched"
+    },
+    "Profile 2": {
+      "commandName": "Executable",
+      "executablePath": "F:\\Steam\\steamapps\\common\\Distant Worlds 2\\DistantWorlds2.exe",
+      "workingDirectory": "F:\\Steam\\steamapps\\common\\Distant Worlds 2"
+    }
+  }
+}

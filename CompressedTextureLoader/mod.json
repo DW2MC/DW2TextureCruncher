@@ -1,0 +1,9 @@
+﻿{
+    "name": "Crunched",
+    "displayName": "Crunched",
+    "mainModule": "CompressedTextureLoader.dll",
+    "mainClass": "CompressedTextureLoader.Mod",
+    "version": "0.1.0",
+    "overrideAssets": "assets",
+    "dependencies": []
+}
